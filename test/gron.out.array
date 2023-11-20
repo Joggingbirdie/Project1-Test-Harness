@@ -1,0 +1,5 @@
+json = {};
+json.fruits = [];
+json.fruits[0] = "apple";
+json.fruits[1] = "banana";
+json.fruits[2] = "orange";

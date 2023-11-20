@@ -1,0 +1,6 @@
+json = {};
+json.person = {};
+json.person.name = "Alice";
+json.person.address = {};
+json.person.address.city = "London";
+json.person.address.zipcode = "SW1A";

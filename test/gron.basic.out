@@ -1,0 +1,4 @@
+json = {};
+json.name = "John";
+json.age = 30;
+json.city = "New York";
