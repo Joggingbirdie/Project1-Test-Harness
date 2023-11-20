@@ -42,4 +42,4 @@ I implemented the following three extensions:
 
 ## Additional Notes
 
-Feeling good and hungary after got these code done!
+Feeling good after got these code done!
